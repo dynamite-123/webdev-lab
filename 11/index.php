@@ -9,7 +9,7 @@
             margin: 50px auto;
             width: 400px;
             padding: 30px;
-            background-color: #f5f5f5;
+            background-color: #F5F0E6;
             border-radius: 10px;
             box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.5);
         }
@@ -24,7 +24,7 @@
 
         input[type="submit"], input[type="reset"] {
             font-size: 12px;
-            background-color: rgb(204, 222, 216);
+            background-color: #B0A08A;
             text-align: center;
             padding: 10px;
         }

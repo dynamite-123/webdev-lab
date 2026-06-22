@@ -6,7 +6,7 @@ body {
 .header {
     text-align: center;
     padding: 20px;
-    background-color: rgba(255, 255, 255, 0.8);
+    background-color: #FDFBF7;
 }
 
 .logo {
@@ -38,7 +38,7 @@ th, td {
 }
 
 th {
-    background-color:  #DCDCDC;
+    background-color:  #E6DFD3;
 }
 
 td {
@@ -69,7 +69,7 @@ td[colspan="2"] {
 }
 
 .t2 th {
-    background-color: #DCDCDC;
+    background-color: #E6DFD3;
 }
 
 .t2 td {
@@ -88,14 +88,14 @@ td[colspan="2"] {
 footer {
     text-align: center;
     padding: 10px;
-    background-color: #333; 
-    color: #fff; 
+    background-color: #E6DFD3; 
+    color: #4A3F35; 
 }
 
 .mr{
  
  margin-top: 20px;
- background-color: #D3D3D3;
+ background-color: #F5F0E6;
  padding: 20px;
  font-size: 25px;
  border-radius: 25px;

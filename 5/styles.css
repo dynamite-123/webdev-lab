@@ -24,21 +24,21 @@ body {
 }
 
 a:link {
-    color: blue;
+    color: #6B7F96;
     text-decoration: none;
 }
 
 a:visited {
-    color: purple;
+    color: #9E7273;
     text-decoration: none;
 }
 
 a:hover {
-    color: red;
+    color: #C07C66;
     text-decoration: underline;
 }
 
 a:active {
-    color: green;
+    color: #768772;
     text-decoration: underline;
 }

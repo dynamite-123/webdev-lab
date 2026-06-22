@@ -7,7 +7,7 @@
             text-align: center;
         }
         date{
-            color: green;
+            color: #768772;
         }
        </style>
     </head>
