@@ -1,0 +1,61 @@
+.
+├── 1
+│   ├── index.html
+│   ├── README.md
+│   └── styles.css
+├── 10
+│   ├── 10a.php
+│   └── 10b.php
+├── 11
+│   ├── index.php
+│   └── text.txt
+├── 12
+│   ├── index.php
+│   └── text.txt
+├── 2
+│   ├── 2a
+│   │   ├── index.html
+│   │   └── styles.css
+│   └── 2b
+│       ├── index.html
+│       ├── left.html
+│       └── right.html
+├── 3
+│   ├── 3a
+│   │   ├── index.html
+│   │   ├── left.html
+│   │   └── right.html
+│   └── 3b
+│       ├── bottom-left.html
+│       ├── bottom-right.html
+│       ├── index.html
+│       ├── top-left.html
+│       └── top-right.html
+├── 4
+│   ├── bg.png
+│   └── index.html
+├── 5
+│   ├── bg.png
+│   ├── index.html
+│   └── styles.css
+├── 6
+│   ├── 6a.html
+│   └── 6b.html
+├── 7
+│   ├── 7a
+│   │   ├── index.html
+│   │   ├── script.js
+│   │   └── styles.css
+│   └── 7b
+│       ├── index.html
+│       └── script.js
+├── 8
+│   ├── index.html
+│   └── script.js
+├── 9
+│   ├── index.html
+│   └── script.js
+├── README.md
+└── structure.txt
+
+19 directories, 40 files
